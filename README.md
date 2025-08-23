@@ -31,5 +31,5 @@
 ### 🧬 [Rosalind Solutions](https://github.com/samoilov2004/Rosalind_solutions)
 85+ bioinformatics problems solved (DNA analysis, sequence alignment, ML)
 
-### 🌿 Protein-Ligand Binding Data Extraction from Patents using AI Agents
+### 🌿 [Protein-Ligand Binding Data Extraction from Patents using AI Agents](https://github.com/Samoilov2004/CleverGuysInGlasses)
 This repository contains tools for automatically extracting quantitative experimental data on protein-ligand binding from patents. The project demonstrates the creation of an open-source "mini-version" of databases like Reaxys/GOSTAR using public patents, leveraging AI agents for filtering, parsing, and validation.
