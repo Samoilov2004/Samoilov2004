@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👨‍💻 DS/ML dev
 
-<!--
-**Samoilov2004/Samoilov2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Projects
 
-Here are some ideas to get you started:
+### ♟️ [Terminal Chess](https://github.com/Samoilov2004/TerminalChess)
+**Advanced console chess with AI integration**  
+- Play against Stockfish (adjustable difficulty 0-20)
+- Multi-language interface (5 languages supported)
+- Real-time move validation and legal move highlighting
+- Game analysis mode with position evaluation
+- Save/load functionality for games
+- Customizable settings: move confirmation, auto-queen, board flipping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 [Rosalind Solutions](https://github.com/samoilov2004/Rosalind_solutions)
+85+ bioinformatics problems solved (DNA analysis, sequence alignment, ML)
+
