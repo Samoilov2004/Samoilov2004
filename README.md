@@ -19,7 +19,7 @@
 
 ## 🔬 Projects
 
-### 🧠 [tinygradc](https://github.com/Samoilov2004/TinyGrad)
+### 🧠 [TinyGrad](https://github.com/Samoilov2004/TinyGrad)
 **Minimal C ML/autograd runtime for learning neural networks**  
 - 2D float32 tensors with gradient support
 - Dynamic computational graph and autograd engine
