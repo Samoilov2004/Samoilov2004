@@ -19,6 +19,16 @@
 
 ## 🔬 Projects
 
+### 🧠 [tinygradc](https://github.com/ваш_логин/tinygradc)
+**Minimal C ML/autograd runtime for learning neural networks**  
+- 2D float32 tensors with gradient support
+- Dynamic computational graph and autograd engine
+- Basic ops: matmul, add, relu, sigmoid, tanh
+- Loss functions: MSE, BCE, softmax cross-entropy
+- Optimizers: SGD, Adam
+
+Currently focused on educational clarity and minimal implementation. Planned improvements include BLAS integration, N-D tensors, and Python bindings for Jupyter demos.
+
 ### ♟️ [Terminal Chess](https://github.com/Samoilov2004/TerminalChess)
 **Advanced console chess with AI integration**  
 - Play against Stockfish (adjustable difficulty 0-20)
