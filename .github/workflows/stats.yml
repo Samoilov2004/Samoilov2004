@@ -2,8 +2,10 @@ name: Generate Stats
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Обновлять каждые 6 часов
+  workflow_dispatch: 
+  push:
+    branches: [ main ]
 
 jobs:
   stats:
@@ -17,6 +19,14 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: samoilov2004
           show_icons: true
+          theme: radical
+
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: samoilov2004
+          layout: compact
           theme: radical
 
       - name: Commit and push
