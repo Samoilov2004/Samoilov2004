@@ -52,14 +52,12 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samoilov2004&theme=dark&hide_border=true" />
+  <img src="./github-readme-stats.svg" />
 </p>
 
----
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samoilov2004)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="./top-langs.svg" />
+</p>
 
 
 ### 📫 Connect with me
