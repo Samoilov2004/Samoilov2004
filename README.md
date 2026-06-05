@@ -51,6 +51,5 @@
 ---
 
 ## GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samoilov2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
