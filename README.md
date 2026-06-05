@@ -52,4 +52,4 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?Samoilov2004
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Samoilov2004&show_icons=true&theme=radical)
