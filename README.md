@@ -52,4 +52,4 @@
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=samoilov2004)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samoilov2004&show_icons=true&theme=radical)
