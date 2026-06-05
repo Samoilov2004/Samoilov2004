@@ -59,9 +59,7 @@
 
 ### 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samoilov2004&theme=onedark" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=samoilov2004)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📫 Connect with me
