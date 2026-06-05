@@ -52,4 +52,5 @@
 
 ## GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samoilov2004&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samoilov2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
