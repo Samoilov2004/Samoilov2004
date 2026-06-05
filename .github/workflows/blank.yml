@@ -1,0 +1,28 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: samoilov2004
+          show_icons: true
+          theme: radical
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Stats Bot"
+          git config --global user.email "bot@github.com"
+          git add -A
+          git commit -m "Update stats" || exit 0
+          git push
