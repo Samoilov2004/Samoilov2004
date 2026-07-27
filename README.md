@@ -2,7 +2,7 @@
 
 <img src="forest.gif" width="100%">
 
-# Mikhail
+# Mikhail Samoilov
 
 ### Data Scientist • Machine Learning Engineer • Analytics
 
