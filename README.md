@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/forest.gif" width="100%">
+<img src="forest.gif" width="100%">
 
 # Михаил Самойлов
 
