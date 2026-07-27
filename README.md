@@ -12,9 +12,6 @@
 <a href="https://samoilov2004.github.io">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-success?style=for-the-badge" />
 </a>
-<a href="https://github.com/samoilov2004">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
 <a href="https://t.me/samoilov_ma">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
